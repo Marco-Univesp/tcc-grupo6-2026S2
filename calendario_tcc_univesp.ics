@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Univesp//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cronograma e Reuniões - TCC Univesp Grupo 6 Turma 2 2026S2
+X-WR-CALDESC:Datas limites de carência e reuniões do TCC
+
+BEGIN:VEVENT
+UID:reuniao-1-tcc-2026
+SEQUENCE:0
+LAST-MODIFIED:20260813T103000Z
+SUMMARY:Primeira Reunião (Com Orientador)
+DESCRIPTION:Link para acesso: https://lti.elos.vc/rooms/8fb40a7f98df7a41102653448068773b06e5d07c/scheduled_meetings/gFGYGpVTabSP/external
+LOCATION:https://lti.elos.vc/rooms/8fb40a7f98df7a41102653448068773b06e5d07c/scheduled_meetings/gFGYGpVTabSP/external
+DTSTART;TZID=America/Sao_Paulo:20260819T203000
+DTEND;TZID=America/Sao_Paulo:20260819T213000
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:c106aed3-1b2f-4aec-9501-be924e9aaf91
+SEQUENCE:0
+LAST-MODIFIED:20260813T103000Z
+SUMMARY:Entrega Parcial 1 - Projeto de Pesquisa
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Data limite de carência para a Primeira Entrega (Quinzena 2).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5b324e54-3826-4e78-ab08-d70acdde32c0
+SEQUENCE:0
+LAST-MODIFIED:20260813T103000Z
+SUMMARY:Entrega Parcial 2 - Desenvolvimento do Projeto
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:Data limite de carência para a Segunda Entrega (Quinzena 5).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:87f05dc7-78bb-4c70-88e2-84f44b68464a
+SEQUENCE:0
+LAST-MODIFIED:20260813T103000Z
+SUMMARY:Entrega Final - Banca de avaliação
+DTSTART;VALUE=DATE:20261115
+DESCRIPTION:Data limite de carência para a Entrega Final (Quinzena 7).
+END:VEVENT
+
+END:VCALENDAR
