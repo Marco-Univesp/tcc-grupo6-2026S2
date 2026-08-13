@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Univesp//NONSGML v1.0//EN
+PRODID:-//Grupo 6 TCC Univesp//Gerado Manualmente v1.0//PT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:TCC Univesp Cronograma e Reuniões - Grupo 6 Turma 2 2026S2
@@ -19,7 +19,7 @@ STATUS:CONFIRMED
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c106aed3-1b2f-4aec-9501-be924e9aaf91
+UID:TCC-entrega-1
 SEQUENCE:0
 LAST-MODIFIED:20260813T103000Z
 SUMMARY: TCC Entrega Parcial 1 - Projeto de Pesquisa
@@ -28,7 +28,7 @@ DESCRIPTION:Data limite de carência para a Primeira Entrega (Quinzena 2).
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5b324e54-3826-4e78-ab08-d70acdde32c0
+UID:TCC-entrega-2
 SEQUENCE:0
 LAST-MODIFIED:20260813T103000Z
 SUMMARY: TCC Entrega Parcial 2 - Desenvolvimento do Projeto
@@ -37,7 +37,7 @@ DESCRIPTION:Data limite de carência para a Segunda Entrega (Quinzena 5).
 END:VEVENT
 
 BEGIN:VEVENT
-UID:87f05dc7-78bb-4c70-88e2-84f44b68464a
+UID:TCC-final
 SEQUENCE:0
 LAST-MODIFIED:20260813T103000Z
 SUMMARY: TCC Entrega Final - Banca de avaliação
