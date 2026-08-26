@@ -31,6 +31,22 @@ DTEND;TZID=America/Sao_Paulo:20260820T213000
 STATUS:CANCELLED
 END:VEVENT
 
+BEGIN:VEVENT
+UID:tcc-univesp-reuniao-1-20260827@univesp.br
+DTSTAMP:20260826T180000Z
+DTSTART:20260827T230000Z
+DTEND:20260827T240000Z
+SUMMARY:Reunião de Grupo 1 — TCC Univesp (ICS)
+DESCRIPTION:Pauta da reunião:\n- Alinhamento inicial do projeto de TCC\n- Definição de papéis e próximas entregas\n- Planejamento dos próximos encontros
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Reunião de TCC Univesp em 15 minutos
+END:VALARM
+END:VEVENT
+
+
 
 BEGIN:VEVENT
 UID:TCC-entrega-1
@@ -58,5 +74,7 @@ SUMMARY: TCC Entrega Final - Banca de avaliação
 DTSTART;VALUE=DATE:20261115
 DESCRIPTION:Data limite de carência para a Entrega Final (Quinzena 7).
 END:VEVENT
+
+
 
 END:VCALENDAR
